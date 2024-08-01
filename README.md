@@ -9,4 +9,5 @@
 - Removing emojis
 - Correcting spelling using TextBlob and PySpellChecker libraries
 - Removing stopwords using NLTK
-By the end of the workshop, members will gain a thorough understanding of how to preprocess text data, equipping them to conduct sentiment analysis and other natural language processing tasks with improved accuracy and efficiency.
+
+#### By the end of the workshop, members will gain a thorough understanding of how to preprocess text data, equipping them to conduct sentiment analysis and other natural language processing tasks with improved accuracy and efficiency.
