@@ -8,11 +8,11 @@ implement a simple NLP pipeline to from cleaning to word embeddings of text.
 
 What we will do: 
 
-## 1.1 Introduction to GenAI and NLP 
+### 1.1 Introduction to GenAI and NLP 
 * GenAI
 * NLP
 
-## 1.2 Introduction to LLMs
+### 1.2 Introduction to LLMs
 * What LLMs are?
 * Attention mechanism
 * Hallucinations
@@ -22,6 +22,6 @@ What we will do:
 
 
 
-## Instructor
+### Instructor
 
 - [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
