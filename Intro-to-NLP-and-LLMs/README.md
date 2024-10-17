@@ -10,7 +10,7 @@ This project contains materials for our first Generative AI workshop. It covers 
 
 
 
-Links to different parts of the presentation: 
+Link to the presentation: 
 * [Intro to NLP and LLMs](slides/into-nlp-llms.pdf)
 
   
