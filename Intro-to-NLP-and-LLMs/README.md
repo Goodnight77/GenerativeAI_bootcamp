@@ -11,7 +11,7 @@ This project contains materials for our first Generative AI workshop. It covers 
 
 
 Link to presentation: 
-* [Slides](Intro to NLP and LLMs/from-words-to-wonders-intro-to-NLP-and-LLMs.pdf)
+* [Slides](Intro-to-NLP-and-LLMs/from-words-to-wonders-intro-to-NLP-and-LLMs.pdf)
   
 
 ## Installation
