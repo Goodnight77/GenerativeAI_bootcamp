@@ -17,9 +17,10 @@ Link to the presentation:
 
 ## Installation
 
-**1. Install Python and Required Packages**
+**1. Install Python if you dont have it **
 
-Install Python and create a virtual environment using your preferred method. Here's an example using `venv`:
+Install Python and create a virtual environment using your preferred method. 
+Here's an example using `venv`:
 
 ```bash
 python3 -m venv .venv
