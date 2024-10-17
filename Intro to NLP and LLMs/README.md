@@ -8,7 +8,7 @@ This project contains materials for our first Generative AI workshop. It covers 
 * * **NLP Pipeline:** This project guides through the building of a Natural Language Processing (NLP) pipeline.
 * * **Model Types & LLMs:** This project introduces different types of Generative AI models, with a focus on Large Language Models (LLMs).
 
-* [Slides](from words to wonders intr to NLP and LLMs.pdf)
+* [Slides](from-words-to-wonders-intro-to-NLP-and-LLMs.pdf)
 
 ## Installation
 
