@@ -27,20 +27,9 @@ source .venv/bin/activate  # On Linux/macOS
 .venv\Scripts\activate   # On Windows
 ```
 
-**2. Install Dependencies**
-Install dependencies by running:
-
-```bash
-pip install -r requirements.txt 
-```
-
 ## Usage
 
 **Run Jupyter Notebooks:**
-
-```bash
-jupyter notebook
-```
 
 This will open Jupyter Notebook in your browser. You can then navigate to the notebooks within the project directory and run them.
 
