@@ -22,6 +22,11 @@ What we will do:
 ## 02. [Introduction to RAG](02-intro-to-RAG/)
 
 
+### other resources 
+here is an insightful course from Google Cloud
+[Introduction to Generative AI ](https://www.cloudskillsboost.google/paths/118)
+
+
 ### Instructor
 
 - [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
