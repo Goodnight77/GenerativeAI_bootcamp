@@ -31,14 +31,14 @@ Participants should have:
    git clone https://github.com/Goodnight77/GenerativeAI_bootcamp.git
    cd 02-into-to-RAG
 2. **Create a Conda Environment**
-  ```bash
-  conda create -n rag python=3.10
-  conda activate rag
+    ```bash
+    conda create -n rag python=3.10
+    conda activate rag
 3. **Install Required Libraries**
-  ```bash
-  pip install torch transformers langchain-community langchain-huggingface   faiss-cpu
+    ```bash
+    pip install torch transformers langchain-community langchain-huggingface   faiss-cpu
 4. **Run the Jupyter Notebook**
-  ```bash
-  jupyter notebook
+    ```bash
+    jupyter notebook
 5. **Open the notebook RAG.ipynb**
 
