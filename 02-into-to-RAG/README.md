@@ -37,6 +37,9 @@ Participants should have:
 3. **Install Required Libraries**
     ```bash
     pip install torch transformers langchain-community langchain-huggingface notebook==7.1.2 pandas faiss-cpu scikit-learn
+3.1. **or you can just do this**
+        ```bash
+        pip install -r requirements.txt
 4. **Run the Jupyter Notebook**
     ```bash
     jupyter notebook

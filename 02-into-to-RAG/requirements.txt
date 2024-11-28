@@ -1,0 +1,9 @@
+torch 
+transformers 
+langchain-community 
+langchain-huggingface 
+notebook==7.1.2 
+pandas 
+pypdf
+faiss-cpu 
+scikit-learn
