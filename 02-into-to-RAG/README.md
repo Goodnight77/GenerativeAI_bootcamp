@@ -36,7 +36,7 @@ Participants should have:
     conda activate rag
 3. **Install Required Libraries**
     ```bash
-    pip install torch transformers langchain-community langchain-huggingface   faiss-cpu
+    pip install torch transformers langchain-community langchain-huggingface notebook==7.1.2 pandas faiss-cpu scikit-learn
 4. **Run the Jupyter Notebook**
     ```bash
     jupyter notebook
