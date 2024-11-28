@@ -40,6 +40,7 @@ Participants should have:
 3.1. **or you can just do this**
         ```bash
         pip install -r requirements.txt
+        
 4. **Run the Jupyter Notebook**
     ```bash
     jupyter notebook
