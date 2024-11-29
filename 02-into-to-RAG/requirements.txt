@@ -1,5 +1,5 @@
-torch 
-transformers 
+transformers
+langchain
 langchain-community 
 langchain-huggingface 
 notebook==7.1.2 
