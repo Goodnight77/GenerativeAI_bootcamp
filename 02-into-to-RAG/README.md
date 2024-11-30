@@ -52,3 +52,10 @@ Install Ollama following the instructions for your operating system.
     jupyter notebook
 7. **Open the notebook RAG.ipynb**
 
+## Homework for next session
+you can find here [HOMEWORK](02-into-to-RAG/Homework/) a homework notebook for the next workshop 
+
+### other resources
+In the [presentation](02-into-to-RAG/slides) you can also find all some RAG ressources 
+
+
