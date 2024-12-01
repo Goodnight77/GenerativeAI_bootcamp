@@ -56,6 +56,6 @@ Install Ollama following the instructions for your operating system.
 you can find here [HOMEWORK](02-into-to-RAG/Homework/Gemini_Pro_RAG.ipynb) a homework notebook for the next workshop 
 
 ### other resources
-In the [presentation](02-into-to-RAG/slides/RAG  workshop 2.pdf) you can also find all some RAG ressources 
+In the [presentation](02-into-to-RAG/slides/02-RAG.pdf) you can also find all some RAG ressources 
 
 
