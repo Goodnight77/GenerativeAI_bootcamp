@@ -37,12 +37,25 @@ Participants should have:
 3. **Install Required Libraries**
     ```bash
     pip install torch transformers langchain-community langchain-huggingface notebook==7.1.2 pandas faiss-cpu scikit-learn
-4. **or you can just do this**
+4. **Alternatively, you can install all the requirements using the requirements.txt file:**
     ```bash
       pip install -r requirements.txt
-        
-5. **Run the Jupyter Notebook**
+5. **Install Ollama for Local Models (Optional)**
+If you wish to use local models with Ollama, follow the steps below to install and configure Ollama.
+
+Download Ollama from the official website: ollama.com.
+
+Install Ollama following the instructions for your operating system.
+
+6. **Run the Jupyter Notebook**
     ```bash
     jupyter notebook
-6. **Open the notebook RAG.ipynb**
+7. **Open the notebook RAG.ipynb**
+
+## Homework for next session
+you can find in the HOMEWORK folder a homework notebook for the next workshop 
+
+### other resources
+In the slides folder a presentation where you can also find all some RAG ressources 
+
 

@@ -23,8 +23,9 @@ What we will do:
 
 ### 2.1 Introduction to RAG
 * What is RAG?
-* How does RAG work?
 * RAG vs. Fine-tuning
+* How does RAG work?
+* RAG components 
 * RAG in practice
 
 
