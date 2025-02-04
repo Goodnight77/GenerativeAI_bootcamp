@@ -39,3 +39,10 @@ here is an insightful course from Google Cloud
 ### Instructor
 
 - [Mohammed Arbi Nsibi](https://www.linkedin.com/in/mohammed-arbi-nsibi-584a43241/)
+
+---
+
+⭐️ If you find this repository helpful, please consider giving it a star!
+
+Keywords: RAG, Retrieval-Augmented Generation, NLP, AI, Machine Learning, Information Retrieval, Natural Language Processing, LLM, Embeddings, Semantic Search
+
