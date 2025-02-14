@@ -44,3 +44,11 @@ This project utilizes Python and Jupyter Notebooks.  The specific dependencies a
 4. Refer to the `slides/Into-to-NLP-(GODS).pdf` for a summary of the project.
 
 
+## Acknowledgments
+
+I would like to extend my gratitude to **IEEE ENSI** for recording the workshop. You can find the recording of the workshop here: [Workshop Recording](https://ensi.ieee.tn/GODS/Bootcamp).
+
+Additionally, I have written articles on Medium that provide further insights into NLP concepts:
+- **Understanding TF-IDF: Term Frequency-Inverse Document Frequency**: [Read on Medium](https://medium.com/@mohammedarbinsibi/understanding-tf-idf-term-frequency-inverse-document-frequency-9d9299af1d87).
+- **A Deep Dive into Natural Language Processing (NLP)**: [Read on Medium](https://medium.com/@mohammedarbinsibi/a-deep-dive-into-natural-language-processing-nlp-da0c0e30d71c).
+
