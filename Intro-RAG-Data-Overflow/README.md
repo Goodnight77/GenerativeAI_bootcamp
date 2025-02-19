@@ -6,10 +6,10 @@ This project provides an introduction to Retrieval-Augmented Generation (RAG) th
 ## Features
 - **Jupyter Notebook (`basic_rag_dataflow.ipynb`)**: A hands-on demonstration of RAG data flow with step-by-step explanations.
 - **Presentation Slides (`slides/Introduction to RAG.pdf`)**: A conceptual overview of RAG, explaining key principles and benefits.
-- **Google Colab Support**: Run the notebook directly in Google Colab without local installation. [Open in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+- **Google Colab Support**: Run the notebook directly in Google Colab without local installation. [Open Google Colab](https://colab.research.google.com/) and then upload this notebook.
 
 ## Installation
-This project requires Python and some essential libraries. While a `requirements.txt` file is not provided, you can install dependencies manually.
+This project requires Python and some essential libraries. you can install dependencies manually within the notebook itself.
 
 ### **Step-by-step setup:**
 1. **Install Python** (if not already installed) from [python.org](https://www.python.org/).
@@ -37,7 +37,7 @@ This project requires Python and some essential libraries. While a `requirements
 
 ### **Run on Google Colab**
 If you prefer not to set up a local environment, open the notebook in Google Colab:
-[Run in Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID_HERE)
+[Run Google Colab](https://colab.research.google.com/)
 
 ## Resources
 The following resources are discussed in the presentation:
