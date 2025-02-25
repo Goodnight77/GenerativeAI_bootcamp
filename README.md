@@ -13,7 +13,7 @@ What we will do:
 * NLP
 
 ### 1.2 Introduction to LLMs
-* What LLMs are?
+* What LLMs are??
 * Attention mechanism
 * Hallucinations
 * Solutions
