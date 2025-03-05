@@ -19,7 +19,7 @@ This project requires Python and some essential libraries. you can install depen
    ```
 3. **Install dependencies** (inspect `basic_rag_dataflow.ipynb` for required packages). Common ones include:
    ```sh
-   pip install pandas langchain openai
+   pip install pandas langchain langchain-groq
    ```
 
 ## Usage
