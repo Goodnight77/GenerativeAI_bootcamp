@@ -1,4 +1,4 @@
-# Intro to Retrieval-Augmented Generation (RAG) Data Flow
+# Intro to Retrieval-Augmented Generation (RAG) Data Overflow
 
 ## Overview
 This project provides an introduction to Retrieval-Augmented Generation (RAG) through a Jupyter Notebook and an accompanying presentation. It demonstrates a basic RAG data flow, illustrating how retrieval-based augmentation enhances generative models.
